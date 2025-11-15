@@ -1,0 +1,4 @@
+grau_medio: 2.358090815545764
+num_componentes: 57
+clusterizacao_global: 0.0
+assortatividade: -0.8144497222242009
